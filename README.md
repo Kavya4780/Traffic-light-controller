@@ -41,8 +41,5 @@ The waveform confirms the "staircase" transition where one axis remains Red whil
 4. **View Waves**: Add signals to the Wave window and type `run 500ns` in the transcript.
 5. **Analyze**: Observe the timing counters and light transitions.
 
-## Future Improvements
-- Add a **Pedestrian Crossing** button input.
-- Implement an **Emergency Vehicle** override sensor.
-- Add a **Night Mode** (flashing yellow/red).
--
+
+
